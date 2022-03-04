@@ -1,0 +1,133 @@
+.head-top {
+    background-color: #131921;
+    width: 100%;
+}
+.head-top a .logo {
+    width: 124px;
+    margin: 16px 0 8px 0;
+}
+i.bi.bi-geo-alt {
+    margin: 5px;
+    padding: 28px 0 0px 0;
+    font-size: 20px;
+}
+.deliver {
+    margin: 14px 0 0 0px;
+    padding: 0;
+    font-size: 13px;
+}
+
+span.fs-6 {
+    font-weight: bolder;
+    /* margin: 2px 0 0 0; */
+}
+
+a.text-white.text-decoration-none.d-flex {
+    margin: 0 4 0 13px;
+}
+a.flg-a {
+    margin: 30px -270px 7px 20px;
+}
+input.searchhere {
+    width: 786px;
+    height: 38px;
+}
+
+.search-bar {
+    margin: 23px 0 0 0;
+    margin: 17px 0 14 0;
+}
+
+button {
+    height: 40px;
+    margin: 16px 0 0 0px;
+    border-radius: 5px;
+}
+a.nav.text-white.text-decoration-none {
+    margin: 11px;
+}
+
+.hamberger {
+    font-size: 28px;
+}
+.personalize-info {
+    border: 1px solid #e2dcdc;
+    margin: 9px 0 8px 0;
+    padding: 24px;
+    border-radius: 10px;
+}
+button.sign-in {
+    width: 293px;
+    height: 35px;
+}
+
+.back-top {
+    height: 50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background-color: #232F3E;
+    transition: 0.4s;
+}
+.back-top:hover {
+    
+    background-color: #232f3edc
+
+}
+.careers-info {
+    padding:  24px 80 0 249px;
+}
+.container-fluid.Last-info {
+    border-bottom: 1px solid #e2dcdc;
+    height: 286px;
+}
+img.amazon {}img.amazon {
+    width: 76px;
+}
+.amazon-img {
+    margin: 0 153 0 229px;
+}
+
+.d-flex.glob-english {
+    margin: 5px;
+    border: 1px solid;
+    padding: 10px 44px;
+    border-radius: 5px;
+}
+
+.globe {
+    margin: 4px  0 0 0px;
+    padding: 0px 16px 0 0;
+}
+.usflag {margin: 8px 11px 0 0;}
+.card-1{
+    width: 344px;
+    height: 400px;
+    margin: 17px;
+}
+.card-1.bg-white.py-3 {
+    padding: 26px;
+}
+img.card-img {
+    height: 285px;
+}
+.container-fluid.d-flex.Card-main {
+    position: relative;
+    top: -250px;
+}
+
+
+
+
+
+/* .wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  } */
+/* .Card-main {
+    z-index: 10000;
+    position: absolute;
+   
+} */

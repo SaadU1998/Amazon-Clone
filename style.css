@@ -69,6 +69,8 @@ button.sign-in {
     cursor: pointer;
     background-color: #232F3E;
     transition: 0.4s;
+    z-index: 10;
+;
 }
 .back-top:hover {
     
@@ -112,22 +114,16 @@ img.amazon {}img.amazon {
 img.card-img {
     height: 285px;
 }
-.container-fluid.d-flex.Card-main {
+.container-fluid.row.Card-main {
     position: relative;
     top: -250px;
+    height: 1114px;
+    z-index: 1000;
+}
+.container-fluid.row.Card-main {
+    padding: 0px;
+   
 }
 
 
 
-
-
-/* .wrapper {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-  } */
-/* .Card-main {
-    z-index: 10000;
-    position: absolute;
-   
-} */

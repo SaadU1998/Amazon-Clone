@@ -86,7 +86,7 @@ shopItems.forEach((item) => {
     const div = `
     
 
-    <div class="card-1   bg-white py-3" style="background-color: #EAEDED;">
+    <div class="card-1   bg-white py-3">
       <h4>
         ${item.Name}
       </h4>
